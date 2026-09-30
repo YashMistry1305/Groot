@@ -1,0 +1,13 @@
+langchain
+dotenv
+streamlit
+langchain-openai
+langchain-experimental
+langchain-groq
+langchain-community
+langgraph
+langchain_text_splitters
+langchain-chroma
+pypdf
+firecrawl
+beautifulsoup4
