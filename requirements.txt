@@ -1,6 +1,8 @@
 langchain
 dotenv
 streamlit
+Flask
+flask-cors
 langchain-openai
 langchain-experimental
 langchain-groq
